@@ -1,0 +1,29 @@
+# 忽略数据集文件夹
+docs/Pytorch_YoLo_From_Scratch/datasets/coco8/*
+docs/Pytorch_YoLo_From_Scratch/datasets/coco128/*
+
+
+# 忽略pycache文件夹
+*/__pycache__
+docs/Pytorch_YoLo_From_Scratch/v3/__pycache__
+
+# 忽略lightning_logs文件夹
+docs/*/v3/lightning_logs
+docs/*/v3/logs
+docs/Pytorch_YoLo_From_Scratch/v3/lightning_logs/version_0
+docs/Pytorch_YoLo_From_Scratch/v3/logs
+
+# 忽略模型文件-需要上传时可git add -f 强制添加
+*.pt
+*.pth
+*.ckpt
+*.onnx
+# *.csv
+*.h5
+*.npy
+*.tar.gz
+# *.zip
+*.log
+*.cache
+*.pkl
+.DS_Store
