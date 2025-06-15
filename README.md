@@ -166,14 +166,6 @@ YOLO Masterプロジェクトの開発と最適化プロセスにおいて、各
 - 本プロジェクトに貢献したい場合は、Pull requestを提出してください。返信がない場合は[サポートチーム](https://github.com/datawhalechina/DOPMC/blob/main/OP.md)に連絡してフォローアップを受けてください~
 - Datawhaleに興味を持ち、新しいプロジェクトを開始したい場合は、[Datawhaleオープンソースプロジェクトガイド](https://github.com/datawhalechina/DOPMC/blob/main/GUIDE.md)に従って操作してください~
 
-## フォローしてください
-
-<div align=center>
-<p>下のQRコードをスキャンして公式アカウントをフォロー：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
-</div>
-
-## LICENSE
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-lightgrey" /></a><br />本作品は<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">クリエイティブ・コモンズ 表示-非営利-継承 4.0 国際ライセンス</a>の下でライセンスされています。
 
